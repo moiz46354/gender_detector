@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1x5YOnKLdQC3EgVyVmMc3V8eB6BZ5N78W/view?usp=shari
 Download the model file and run the inference_gender file to test this model on local environment.
 ![image](https://github.com/moiz46354/gender_detector/assets/83147631/53ce70fe-36ab-403a-b6a4-8d81b11bccb3)
 
-If you want to run this on Google Colab. Just simply run the GenderDetectionkit.ipynb file.
+If you want to run this on Google Colab. Just simply run the GenderDetection.ipynb file.
 This is a simple demo:
 ![image](https://github.com/moiz46354/gender_detector/assets/83147631/c91bd625-95ed-497e-875f-f21908943dcc)
 
