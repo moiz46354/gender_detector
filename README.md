@@ -1,4 +1,7 @@
 # gender_detector
+# Description:
+The aim of this project is to develop an gender predictor using deep learning techniques. This system will be able to automatically predict the gender of an individual in a given image or video stream. The accurate prediction of age and gender can have significant applications in various domains such as targeted advertising, human-computer interaction, surveillance, and demographic analysis.
+# Usage
 Gender prediction with EfficientNet classification
 Here is the dataset link that I used to train this model:
 
